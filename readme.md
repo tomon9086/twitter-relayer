@@ -1,4 +1,4 @@
-# Web crawler
+# Twitter relayer
 ## Usage
 
 ``` shell
