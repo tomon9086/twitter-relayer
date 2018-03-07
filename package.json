@@ -1,7 +1,7 @@
 {
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "puppeteer": "^1.1.1"
   },
   "scripts": {
     "start": "node index.js"
